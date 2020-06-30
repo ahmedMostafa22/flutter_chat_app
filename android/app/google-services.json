@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247440711904",
+    "firebase_url": "https://chatmax-8cfad.firebaseio.com",
+    "project_id": "chatmax-8cfad",
+    "storage_bucket": "chatmax-8cfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247440711904:android:eed2bca627b2710a357085",
+        "android_client_info": {
+          "package_name": "com.example.chatmaxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247440711904-mdrfaui28etc6glrrif4orhe4osmgpcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3LSsbu84775bCLdWAijTEa8gAkP7Gs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247440711904-mdrfaui28etc6glrrif4orhe4osmgpcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
